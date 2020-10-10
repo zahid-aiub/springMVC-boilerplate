@@ -1,4 +1,4 @@
-package com.zahid.pojo.wraper;
+package com.zahid.pojo;
 
 public class ApiStatus {
     private Integer status;

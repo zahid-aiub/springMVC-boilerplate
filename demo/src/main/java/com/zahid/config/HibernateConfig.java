@@ -1,3 +1,14 @@
+
+/*
+*
+* Author: Zahid
+* Uncomment this file only if the database connection is stable
+*
+* */
+
+
+/*
+
 package com.zahid.config;
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -56,4 +67,7 @@ public class HibernateConfig {
         return transactionManager;
     }
 
+
 }
+
+ */

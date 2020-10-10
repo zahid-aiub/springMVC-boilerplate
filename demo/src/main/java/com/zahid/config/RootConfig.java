@@ -7,7 +7,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 @Configuration
 @ComponentScan({ "com.zahid.*" })
-
 public class RootConfig {
 
 }
